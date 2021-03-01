@@ -1,0 +1,16 @@
+{
+  "name": "hands-on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node sum.js"
+  },
+  "author": "Cecilia Lobo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
